@@ -9,6 +9,8 @@ public class AddNumber {
 		x=x+y;
 		y=x-y;
 		x=x-y;
+		System.out.println("swap");
+		System.out.println("hiiiiiii");
 		System.out.println(x+"x value"+y+" y value" );
 	}
 
